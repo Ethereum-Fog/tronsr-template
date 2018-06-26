@@ -1,4 +1,4 @@
-## Digital Assets Group
+## TronDAG
 DAG (Digital Assets Group), established in 2017, is registered in BVI (British Virgin Islands), specializing in blockchain digital asset business. It has a number of subsidiaries and foundations. It owns digital assets. Btcfoo, world-class Ethereum Fog, chainshome, tokenshome and mine pool.
 
 ## For More Info
