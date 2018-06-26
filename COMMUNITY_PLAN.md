@@ -4,7 +4,8 @@
 
 3.DAG’s official Telegram, Twitter, Facebook, two official WeChat public platforms , hundreds of WeChat groups, and other social media channels will publicize DAG's cooperation with TRON.  
 
-4.Support the community at the key node DAG in calling DAG’s fans to participate in the TRON community interaction .</br></br>
+4.Support the community at the key node DAG in calling DAG’s fans to participate in the TRON community interaction .  
+
 5.Carry out live broadcast; popularize the construction of TRON community, the ecosystem of TRON and  the advantages of DAG to run for Tron Super Representative.  
 
 6.Participate in the interaction with the Tron supporters. Meet Up will be held in many cities in China, including but not limited to Beijing, Shanghai, Shen Zhen, Hang Zhou, etc.  
