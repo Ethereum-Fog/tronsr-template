@@ -1,6 +1,6 @@
-- Server budget: $106,400.</br>
-- Community operation: $80,000.</br>
-- Offline MEETUP: 40000.</br>
-- Media publicity: $60,000.</br>
-- Project support: $100,000.</br>
-- Total: $386,000</br>
+- Server budget: $106,400  
+- Community operation: $80,000  
+- Offline MEETUP: 40000  
+- Media publicity: $60,000  
+- Project support: $100,000  
+- Total: $386,000  
